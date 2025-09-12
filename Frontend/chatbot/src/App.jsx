@@ -88,7 +88,7 @@ export default function DeepSeekChatbot() {
 
  // ... existing code ...
 return (
-  <div className="min-h-screen bg-[#343541] flex flex-col justify-center items-center">
+  <div className="min-h-screen bg-[#61626d] flex flex-col justify-center items-center">
     <div className="w-full max-w-2xl mx-auto h-screen flex flex-col shadow-xl rounded-lg bg-[#444654]">
       {/* Header */}
       <div className="bg-[#202123] p-4 rounded-t-lg border-b border-[#2a2b32]">
